@@ -1,0 +1,13 @@
+  
+  .imagecaro {
+    width: 1000px;
+    height: 800px;
+    overflow: hidden;
+  }
+  
+  .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  

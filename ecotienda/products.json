@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "Photo":"assets/img/cepillo.jpeg",
+      "Name": "Cepillo de diente de bambú",
+      "Description": "Nuestro cepillo de dientes de bambú ecológico es una opción consciente y respetuosa con el medio ambiente para el cuidado bucal diario. Diseñado pensando en la sostenibilidad y la salud, este cepillo de dientes ofrece una alternativa ecológica a los cepillos de plástico convencionales",
+      "Price": "$1",
+      "Boton":"<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'> <input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='JKG3MGVB2ULEQ'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/es_XC/i/scr/pixel.gif' width='1' height='1'></form>"
+    },
+    {
+      "Photo":"assets/img/papel.jpeg",
+      "Name": "Papel higiénico reciclado",
+      "Description": "Nuestro papel higiénico reciclado es una elección responsable y sostenible para tu higiene personal y el cuidado del medio ambiente. Fabricado con materiales reciclados de alta calidad, este papel higiénico ofrece una alternativa ecológica y consciente para tu baño.",
+      "Price": "$2",
+      "Boton":"<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'> <input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='JKG3MGVB2ULEQ'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/es_XC/i/scr/pixel.gif' width='1' height='1'></form>"
+    },
+    {
+      "Photo":"assets/img/detergente.jpeg",
+      "Name": "Detergente biodegradable:",
+      "Description": "Nuestro detergente biodegradable es la opción ideal para mantener tu ropa limpia y fresca, al mismo tiempo que cuidas del medio ambiente. Diseñado pensando en la sostenibilidad y la efectividad, este detergente ofrece una solución ecológica y responsable para tus necesidades de limpieza.",
+      "Price": "$15",
+      "Boton":"<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'> <input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='JKG3MGVB2ULEQ'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/es_XC/i/scr/pixel.gif' width='1' height='1'></form>"
+    },
+    {
+      "Photo":"assets/img/esponja.jpg",
+      "Name": "Esponjas de cocina naturales biodegradables",
+      "Description": "Nuestras esponjas de cocina naturales biodegradables son la elección perfecta para una limpieza efectiva y respetuosa con el medio ambiente. Fabricadas con materiales naturales y sin productos químicos agresivos, estas esponjas te permiten mantener tu cocina impecable mientras reduces tu huella ambiental.",
+      "Price": "$1",
+      "Boton":"<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'> <input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='JKG3MGVB2ULEQ'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/es_XC/i/scr/pixel.gif' width='1' height='1'></form>"
+    },
+    {
+      "Photo":"assets/img/jabon.jpg",
+      "Name": "Jabón líquido de manos Biodegradable",
+      "Description": "Nuestro jabón líquido de manos biodegradable es una opción consciente y sostenible para mantener tus manos limpias y cuidadas. Formulado con ingredientes naturales y respetuosos con el medio ambiente, este jabón líquido te ofrece una experiencia de lavado suave y efectiva, al tiempo que minimiza su impacto en el ecosistema. ",
+      "Price": "$2",
+      "Boton":"<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'> <input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='JKG3MGVB2ULEQ'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/es_XC/i/scr/pixel.gif' width='1' height='1'></form>"
+    },
+    {
+      "Photo":"assets/img/desinfectante.jpg",
+      "Name": "Desinfectante Multiuso",
+      "Description": "Nuestro Desinfectante Multiuso es la solución perfecta para mantener tu hogar limpio, saludable y libre de gérmenes. Diseñado con una fórmula avanzada, este producto es altamente efectivo para eliminar bacterias, virus y otros patógenos que pueden causar enfermedades..",
+      "Price": "$5",
+      "Boton":"<form target='paypal' action='https://www.paypal.com/cgi-bin/webscr' method='post'> <input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='hosted_button_id' value='JKG3MGVB2ULEQ'><input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypalobjects.com/es_XC/i/scr/pixel.gif' width='1' height='1'></form>"
+    }
+  ]
+}
